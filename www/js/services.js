@@ -6,8 +6,8 @@ angular.module('starter.services', [])
   // Some fake testing data
   var chats = [{
     id: 0,
-    name: 'Ben Sparrow',
-    lastText: 'You on your way?',
+    name: 'importancia del agua',
+    lastText: 'la importancia del agua es muy importante para el ser humano pero hay personas que no cuidan el agua y necesitan de eso. en otros paises como en africa hay muchos niños que necesitan agua lo que en otro pais estan desperdiciando',
     face: 'img/ben.png'
   }, {
     id: 1,

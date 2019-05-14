@@ -8,17 +8,17 @@ angular.module('starter.services', [])
     id: 0,
     name: 'importancia del agua',
     lastText: 'la importancia del agua es muy importante para el ser humano pero hay personas que no cuidan el agua y necesitan de eso. en otros paises como en africa hay muchos niños que necesitan agua lo que en otro pais estan desperdiciando',
-    face: 'img/ben.png'
+    face: 'img/img1.jpg'
   }, {
     id: 1,
-    name: 'Max Lynx',
-    lastText: 'Hey, it\'s me',
-    face: 'img/max.png'
+    name: 'Enfermedades Que Pude Causar El Agua',
+    lastText: 'Enfermedades transmitidas por el agua son aquellas causadas por el agua contaminada por desechos humanos, animales o químicos. Por ejemplo cólera, fiebre tifoidea, shigella, poliomielitis, meningitis, hepatitis, diarrea. En general, la mayoría se puede prevenir con un tratamiento adecuado del agua, antes de consumirla.',
+    face: 'img/img2.jpg'
   }, {
     id: 2,
-    name: 'Adam Bradleyson',
+    name: 'Como Puedes Desinfectar El Agua',
     lastText: 'I should buy a boat',
-    face: 'img/adam.jpg'
+    face: 'img/nel3.jpg'
   }, {
     id: 3,
     name: 'Perry Governor',

@@ -3,7 +3,13 @@
 	background-color:#70706F;
 }
 .centro{
-	text-align:center;
+  padding-left:30%;
+}
+.centro1{
+  text-align: center;
+}
+.centro2{
+  text-align: center;
 }
 body {
   margin: 0;

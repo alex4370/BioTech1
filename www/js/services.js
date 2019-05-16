@@ -26,9 +26,9 @@ angular.module('starter.services', [])
     face: 'img/kk4.jpg'
   }, {
     id: 4,
-    name: 'Mike Harrington',
-    lastText: 'This is wicked good ice cream.',
-    face: 'img/mike.png'
+    name: 'Metodos anticonseptivos',
+    lastText: 'Dispositivos intrauterinos. Anticonceptivos de barrera masculinos (condón) y femeninos (condón, diafragma; espermicidas). Método de la amenorrea de lactancia. Métodos de abstinencia periódica (moco cervical (Billings); calendario; temperatura basal; sintotérmico).',
+    face: 'img/joel5.jpg'
   }];
 
   return {

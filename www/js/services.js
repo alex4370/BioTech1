@@ -6,19 +6,19 @@ angular.module('starter.services', [])
   // Some fake testing data
   var chats = [{
     id: 0,
-    name: 'importancia del agua',
-    lastText: 'la importancia del agua es muy importante para el ser humano pero hay personas que no cuidan el agua y necesitan de eso. en otros paises como en africa hay muchos niños que necesitan agua lo que en otro pais estan desperdiciando El agua es el elemento más importante para la vida. Es de una importancia vital para el ser humano, así como para el resto de animales y seres vivos que nos acompañan en el planeta Tierra.',
-    face: 'img/img1.jpg'
+    name: 'Metodos hormonales',
+    lastText: 'Las hormonas anticonceptivas se pueden tomar por vía oral, insertarse en la vagina, aplicarse en la piel, implantarse bajo la misma o inyectarse en el músculo. Estas hormonas son los estrógenos y los progestágenos (fármacos similares a la hormona progesterona). Los estrógenos y la progesterona contribuyen a preparar al cuerpo para una posible fecundación (ver Fase lútea). Los métodos hormonales previenen el embarazo principalmente deteniendo la liberación de óvulos por parte de los ovarios o manteniendo una densidad tan espesa de la mucosidad en el cuello uterino que los espermatozoides no pueden atravesarlo y entrar en el útero. De este modo, los métodos hormonales evitan que el óvulo sea fecundado..',
+    face: 'img/metodos.jpg'
   }, {
     id: 1,
-    name: 'Enfermedades Que Pude Causar El Agua',
-    lastText: 'Enfermedades transmitidas por el agua son aquellas causadas por el agua contaminada por desechos humanos, animales o químicos. Por ejemplo cólera, fiebre tifoidea, shigella, poliomielitis, meningitis, hepatitis, diarrea. En general, la mayoría se puede prevenir con un tratamiento adecuado del agua, antes de consumirla .',
-    face: 'img/img2.jpg'
+    name: 'metodos no hormonales reversibles',
+    lastText: 'El condón masculino tiene gran importancia porque ofrece protección contra las infecciones transmisibles por vía sexual (ITS), incluyendo el virus de la inmunodeficiencia humana (VIH). El condón femenino ofrece protección contra las ITS, sin embargo no hay suficiente evidencia clínica disponible respecto de la protección que ofrecería contra la infección por VIH. El diafragma y el capuchón cervical no dan protección contra el VIH y no hay evidencia suficiente acerca de protección contra las ITS. .',
+    face: 'img/condon.jpg'
   }, {
     id: 2,
-    name: 'Como Puedes Desinfectar El Agua',
+    name: 'metodos no hormonales ',
     lastText: 'Esta solución sirve para desinfectar 20 litros de agua, pero se debe utilizar cada ocho horas, ya que el cloro se evapora en ese tiempo. Con yodo. Para aumentar su efectividad, es necesario filtrar el agua antes, echar de 2 a 10 gotas por litro, mezclarla y dejarla reposar entre 15 y 20 minutos.',
-    face: 'img/nel3.jpg'
+    face: 'img/no.jpg'
   }, {
     id: 3,
     name: 'Cada cuanto debes tomar agua',
